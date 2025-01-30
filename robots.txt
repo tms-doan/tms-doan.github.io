@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tms-doan.github.io/sitemap-index.xml
+Host: https://tms-doan.github.io
