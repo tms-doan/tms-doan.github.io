@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/customer/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"WHAT \"CUSTOMER-FACING\" REALLY MEANS TO ME","description":"A lot of people think \"custoner-facing\" just","date":"2025-03-17T00:00:00.000Z","slug":"/blog/into-their-world","tags":["Culture","Startup","Customer"]}}}]}},"pageContext":{"tag":"Customer"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}

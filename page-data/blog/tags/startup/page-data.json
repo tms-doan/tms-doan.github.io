@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/startup/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"frontmatter":{"title":"WHAT \"CUSTOMER-FACING\" REALLY MEANS TO ME","description":"A lot of people think \"custoner-facing\" just","date":"2025-03-17T00:00:00.000Z","slug":"/blog/into-their-world","tags":["Culture","Startup","Customer"]}}},{"node":{"frontmatter":{"title":"THOMAS AND THE STARTUP CULTURE","description":"I worked for 3 startups, as a full-time employee","date":"2022-11-30T00:00:00.000Z","slug":"/blog/thomas-and-startup-culture","tags":["Culture","Startup"]}}},{"node":{"frontmatter":{"title":"A Journey into Mental Healthcare Innovation","description":"In August 2022, I embarked on a new adventure","date":"2022-03-11T00:00:00.000Z","slug":"/blog/thomas-and-therify","tags":["Culture","Startup","Healthcare"]}}}]}},"pageContext":{"tag":"Startup"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}

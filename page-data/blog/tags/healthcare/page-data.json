@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/healthcare/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"A Journey into Mental Healthcare Innovation","description":"In August 2022, I embarked on a new adventure","date":"2022-03-11T00:00:00.000Z","slug":"/blog/thomas-and-therify","tags":["Culture","Startup","Healthcare"]}}}]}},"pageContext":{"tag":"Healthcare"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}
