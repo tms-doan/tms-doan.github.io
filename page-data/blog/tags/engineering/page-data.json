@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/engineering/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"WATERFALL -> AGILE -> AGENTIC","description":"What I learned running multi-agent coding workflows at Crossfill","date":"2026-04-28T00:00:00.000Z","slug":"/blog/waterfall-agile-agentic","tags":["AI","Engineering","Product","Culture"]}}}]}},"pageContext":{"tag":"Engineering"}},
+    "staticQueryHashes": ["2009693873","2077189868","3303540520","3505212370","3825832676"]}

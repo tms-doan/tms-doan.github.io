@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tag-js",
     "path": "/blog/tags/product/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"How I Taught Vibe Coding To Non-Technical Designers","description":"What worked when I taught vibe coding at Crossfill","date":"2026-01-18T00:00:00.000Z","slug":"/blog/teaching-vibe-coding-to-designers","tags":["Culture","Product","AI"]}}}]}},"pageContext":{"tag":"Product"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"WATERFALL -> AGILE -> AGENTIC","description":"What I learned running multi-agent coding workflows at Crossfill","date":"2026-04-28T00:00:00.000Z","slug":"/blog/waterfall-agile-agentic","tags":["AI","Engineering","Product","Culture"]}}},{"node":{"frontmatter":{"title":"How I Taught Vibe Coding To Non-Technical Designers","description":"What worked when I taught vibe coding at Crossfill","date":"2026-01-18T00:00:00.000Z","slug":"/blog/teaching-vibe-coding-to-designers","tags":["Culture","Product","AI"]}}}]}},"pageContext":{"tag":"Product"}},
     "staticQueryHashes": ["2009693873","2077189868","3303540520","3505212370","3825832676"]}
